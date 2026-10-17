@@ -1,0 +1,17 @@
+{
+    "validUser": {
+        "firstName": "Anagha",
+        "lastName": "Maske",
+        "postalCode": "411001"
+    },
+
+    "allBlank": {
+        "firstName": "",
+        "lastName": "",
+        "postalCode": ""
+    },
+    "emptyFirstNameError":"Error: First Name is required",
+    "emptyLastNameError":"Error: Last Name is required",
+    "emptyPostalCodeError":"Error: Postal Code is required",
+    "orderConfirmationMessage":"Thank you for your order!"
+}

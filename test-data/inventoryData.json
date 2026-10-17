@@ -1,0 +1,21 @@
+{
+  "products": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bike Light",
+    "Sauce Labs Bolt T-Shirt",
+    "Sauce Labs Fleece Jacket",
+    "Sauce Labs Onesie",
+    "Test.allTheThings() T-Shirt (Red)"
+  ],
+  "price":
+    ["$29.99", "$9.99", "$15.99", "$49.99", "$7.99", "$15.99" ],
+    
+  "productDetails": {
+    "productName": "Sauce Labs Backpack",
+    "productPrice": "$29.99",
+    "productDescription": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection."
+  
+  }
+
+  
+}
